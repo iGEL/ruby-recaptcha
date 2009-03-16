@@ -1,3 +1,7 @@
+h2. About this fork
+
+This is my almost unchanged fork of "ruby-recaptcha":http://bitbucket.org/mml/ruby-recaptcha/wiki/Home I just want to change the error message, so I made it customable.
+
 = ruby-recaptcha
 
 h2. What
