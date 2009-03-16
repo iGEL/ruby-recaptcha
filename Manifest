@@ -1,0 +1,11 @@
+Manifest
+Rakefile
+test/test_recaptcha.rb
+test/test_helper.rb
+script/console
+script/generate
+script/destroy
+lib/recaptcha.rb
+lib/ruby-recaptcha.rb
+README.textile
+ruby-recaptcha.gemspec

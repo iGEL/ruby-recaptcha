@@ -1,4 +1,0 @@
-History.txt
-README.txt
-lib/recaptcha.rb
-lib/ruby-recaptcha.rb
