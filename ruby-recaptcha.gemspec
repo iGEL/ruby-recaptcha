@@ -9,8 +9,8 @@ Gem::Specification.new do |s|
   s.date = %q{2009-03-16}
   s.description = %q{My almost unchanged fork of ruby-recaptcha}
   s.email = %q{igel@igels.net}
-  s.extra_rdoc_files = ["lib/recaptcha.rb", "README.textile"]
-  s.files = ["Manifest", "Rakefile", "test/test_recaptcha.rb", "test/test_helper.rb", "script/console", "script/generate", "script/destroy", "lib/recaptcha.rb", "README.textile", "ruby-recaptcha.gemspec"]
+  s.extra_rdoc_files = ["lib/recaptcha.rb", "lib/ruby-recaptcha.rb", "README.textile"]
+  s.files = ["Manifest", "Rakefile", "test/test_recaptcha.rb", "test/test_helper.rb", "script/console", "script/generate", "script/destroy", "lib/recaptcha.rb", "lib/ruby-recaptcha.rb", "README.textile", "ruby-recaptcha.gemspec"]
   s.has_rdoc = true
   s.homepage = %q{http://bitbucket.org/mml/ruby-recaptcha/wiki/Home}
   s.rdoc_options = ["--line-numbers", "--inline-source", "--title", "Ruby-recaptcha", "--main", "README.textile"]
